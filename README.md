@@ -167,9 +167,6 @@ The gold layer maps directly to a Power BI star schema with:
 
 All 31 measures have SQL equivalents in [`explorations/gold_aggregations.sql`](explorations/gold_aggregations.sql) for validation.
 
-![Power BI Semantic Model — Measure Summary](docs/img/pbi_measure_summary.png)
-
-*Screenshot: DAX measure summary table showing base measures, derived measures, and time intelligence measures with display folder assignments.*
 
 ---
 
